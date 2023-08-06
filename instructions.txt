@@ -1,0 +1,7 @@
+anytime you make changes you say (in the terminal)
+(btw make sure the terminal is under the 'tempboot' folder)
+git add .
+git commit -m "your message here"
+git push
+those changes should be visible at the url of your github repo 
+https://github.com/LamGNgo/tempboot
