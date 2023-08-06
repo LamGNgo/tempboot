@@ -1,5 +1,6 @@
 anytime you make changes you say (in the terminal)
 (btw make sure the terminal is under the 'tempboot' folder)
+make sure you save 
 git add .
 git commit -m "your message here"
 git push
